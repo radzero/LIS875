@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:"Telex", sans-serif;
+	}
+
+#wrapper {
+	margin-left: 10%;
+	margin-top: 2%;
+	margin-right: 10%;
+	}
+
+#top {
+	width: auto;
+	height: 110px;	
+	}	
+
+#coming_soon {
+	width: auto;
+	height: 120px;
+	font-family: "Telex", sans-serif;
+	text-align: center;
+	margin-right: 5%;
+	}
+
+#side_panel {
+	width: 150px;
+	height: auto;
+	font-size: 15px;
+	float: left;
+	text-align: justify;
+	}
+
+#countdown {
+	width: auto;
+	height: 250px;
+	}
+	
+#box {
+	width: auto;
+	height: auto;
+	text-justify: auto;
+	margin-top: 5%;
+		
+	}
+	
+#form {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 20%;
+	}
+	
+#navi {
+	width: auto;
+	height: 50px;
+	margin-top: 20px;
+	text-align:center;
+	}
+	
+#name {
+	font-size: 80px;
+	color: #100015;
+	font-family: "Noto Sans", sans-serif;
+	text-align: center;
+	text-shadow: 5px 5px 3px #666;
+	}
+
+#name_lower {
+	text-align: center;
+	font-size: 30px;
+	}
+
+#soon {
+	font-size: 120px;
+	margin-top: 20px;
+	margin-left: 18%;
+	text-align: left;
+	}
+
+h3 {
+	margin:0 0 0 10px;
+	font-size:25px;
+	color:#CC0000;
+	}
+
+a {
+	color:#CC0000;
+	text-decoration:none;
+	}
+	
+a:hover {
+	text-decoration: underline;
+	font-family: Telex, sans-serif;
+
+	}
