@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	font-family:"Telex", sans-serif;
+	font-family: "Telex", sans-serif;
 	}
 
 #wrapper {
@@ -23,7 +23,11 @@ body {
 	text-align: center;
 	margin-right: 5%;
 	}
-
+#Contact_form {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+	}
 #side_panel {
 	width: 150px;
 	height: auto;
